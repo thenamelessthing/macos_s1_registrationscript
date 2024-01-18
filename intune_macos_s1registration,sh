@@ -4,6 +4,7 @@
 # Script by Patrick Gagne & Andre Laplante.
 # Date: 14 sept 2023
 # Ver 0.1
+# Put your Sentinel one group token information on the line #23
 
 
 # Run the sentinelctl status command and store the output in a variable
